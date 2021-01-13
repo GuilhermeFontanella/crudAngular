@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "name": "Mouse Optico Bluetooth",
+      "price": "30.00",
+      "id": 1
+    },
+    {
+      "name": "Novo Produto bem Legal",
+      "price": "10.00",
+      "id": 2
+    },
+    {
+      "name": "Mais um produto bem legal",
+      "price": "30.90",
+      "id": 3
+    }
+  ]
+}
